@@ -3,11 +3,11 @@
     "ec-git": {
       "flake": false,
       "locked": {
-        "lastModified": 1672877366,
-        "narHash": "sha256-m7Zb6a4azmpLxFHUdLh3mj8EmJaaCmueuJihfdtBVlc=",
+        "lastModified": 1685084639,
+        "narHash": "sha256-hwI61GKzID9rv7hZiKH5MC1Fzbuw+D7mZG9twgLgS9Y=",
         "ref": "refs/heads/hx20-hx30",
-        "rev": "38c1b38254793a2ed25861330ebc786daa5b48fb",
-        "revCount": 16715,
+        "rev": "f6d6b927eed71550d3475411cfc3e59abe5cef2a",
+        "revCount": 16767,
         "type": "git",
         "url": "https://github.com/FrameworkComputer/EmbeddedController"
       },
