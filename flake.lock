@@ -3,15 +3,16 @@
     "ec-git": {
       "flake": false,
       "locked": {
-        "lastModified": 1685084639,
-        "narHash": "sha256-hwI61GKzID9rv7hZiKH5MC1Fzbuw+D7mZG9twgLgS9Y=",
-        "ref": "refs/heads/hx20-hx30",
-        "rev": "f6d6b927eed71550d3475411cfc3e59abe5cef2a",
-        "revCount": 16767,
+        "lastModified": 1704310738,
+        "narHash": "sha256-G87GYZEilxxWRrjm/SWNxThOBbwrn0HjKBv8YKu91jA=",
+        "ref": "lotus-zephyr",
+        "rev": "28b064e7e4efdd5f24e5644fb68bf7f5d1c202cf",
+        "revCount": 32619,
         "type": "git",
         "url": "https://github.com/FrameworkComputer/EmbeddedController"
       },
       "original": {
+        "ref": "lotus-zephyr",
         "type": "git",
         "url": "https://github.com/FrameworkComputer/EmbeddedController"
       }

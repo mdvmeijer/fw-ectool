@@ -6,7 +6,7 @@
       flake = false;
     };
     ec-git = {
-      url = "git+https://github.com/FrameworkComputer/EmbeddedController";
+      url = "git+https://github.com/FrameworkComputer/EmbeddedController?ref=lotus-zephyr";
       flake = false;
     };
   };
